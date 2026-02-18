@@ -1,3 +1,1 @@
-# lav dette site vha componenter i astro
-
-# start med produktlist
+# lav dette site
